@@ -1,3 +1,5 @@
-﻿  3.43.cpp
+﻿  test.cpp
+f:\sheffield\c++\c++ primer\codes\charpter3\test.cpp(46): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\sheffield\c++\c++ primer\codes\charpter3\test.cpp(46): warning C4305: “初始化”: 从“double”到“float”截断
   C++ Primer.vcxproj -> F:\Sheffield\C++\C++ primer\codes\C++ Primer\Debug\C++ Primer.exe
   C++ Primer.vcxproj -> F:\Sheffield\C++\C++ primer\codes\C++ Primer\Debug\C++ Primer.pdb (Partial PDB)

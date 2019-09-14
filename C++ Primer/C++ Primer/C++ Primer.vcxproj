@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\charpter3\test.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{05195050-24C1-485C-A2F5-0BD331391F6C}</ProjectGuid>
     <RootNamespace>CPrimer</RootNamespace>

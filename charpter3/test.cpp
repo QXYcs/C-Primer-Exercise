@@ -49,4 +49,5 @@ int main() {
 	for (int i = 0; i < 5; i++) 
 		cout << a3[i] << endl;
 	system("pause");
+	int i = 0;
 }
