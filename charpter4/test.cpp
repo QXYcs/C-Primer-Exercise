@@ -6,7 +6,7 @@ using std::vector;
 using std::string;
 
 int main() {
-	///1. 比较运算符类型转化理解
+ 	///1. 比较运算符类型转化理解
 	char *cp = "Hello,word";
 	int i = 1;
 	double j = 1.1;
